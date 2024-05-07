@@ -1,0 +1,3 @@
+[submodule "Software/m68k-elf-gcc"]
+	path = Software/m68k-elf-gcc
+	url = https://github.com/MatthewEdgmon/m68k-elf-gcc
